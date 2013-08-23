@@ -1,0 +1,3 @@
+COMPONENT=PushAndToggleAppC
+include $(MAKERULES)
+
